@@ -23,6 +23,7 @@ Tools to display more detailed GitHub user data in your profile README
 - [GitHub Now](https://github.com/beyondcode/github-now) by [@beyondcode](https://github.com/beyondcode) - Now pages for your README, Laravel app with support for Spotify and Google Calendar
 - [rss-to-readme](https://github.com/JasonEtco/rss-to-readme) by [@JasonEtco](https://github.com/JasonEtco) - GitHub Action that updates a section of a README from an RSS feed
 - [readme-guestbook](https://github.com/JasonEtco/readme-guestbook) by [@JasonEtco](https://github.com/JasonEtco) - Web app that transforms a README into a guestbook
+- [waka-readme](https://github.com/athul/waka-readme) by [@athul](https://github.com/athul) - Wakatime Weekly Metrics on your README
 
 ## Resources
 
