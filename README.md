@@ -17,6 +17,7 @@
 Tools to display more detailed GitHub user data in your profile README
 
 - [profile_stack](https://github.com/Matt-Gleich/profile_stack) by [@Matt-Gleich](https://github.com/Matt-Gleich) - GitHub Action to display your tech stack on a README
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [@anuraghazra](https://github.com/anuraghazra) - Dynamically generated stats for your README
 
 ## Other services
 
